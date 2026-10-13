@@ -167,7 +167,7 @@ body {
 <!-- 기존 상단 카테고리 유지 -->
 <div class="navigation">
 
-<a href="윤동주란 누구인가.html">시인 윤동주란 누구인가</a> |
+<a href="index.html">시인 윤동주란 누구인가</a> |
 
 <a href="윤동주의 삶.html">시인 윤동주의 삶</a> |
 
